@@ -31,8 +31,10 @@
 *.out
 *.app
 dfa
+nfa
 *.key
 
 # Test files
-
+nfa-in*
 dfa-in*
+submit*
