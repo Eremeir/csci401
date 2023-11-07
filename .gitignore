@@ -32,9 +32,11 @@
 *.app
 dfa
 nfa
+nfa_e
 *.key
 
 # Test files
 nfa-in*
+nfa_e-in*
 dfa-in*
 submit*
