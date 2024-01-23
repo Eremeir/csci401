@@ -35,7 +35,7 @@ nfa
 nfa_e
 *.key
 
-# Test files
+# Test filetypes
 nfa-in*
 nfa_e-in*
 dfa-in*
